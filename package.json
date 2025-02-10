@@ -12,7 +12,7 @@
     "debug": "*",
     "express": "*",
     "hbs": "^4.0.1",
-    "mongoose": "*",
+    "mongoose": "^8.10.0",
     "morgan": "*",
     "q": "*",
     "serve-favicon": "*",
